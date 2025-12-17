@@ -1,16 +1,4 @@
-I have rebuilt both documents from the ground up.
 
-These are now the **Definitive Editions**. They seamlessly merge your **Core Automation Scripts** (Stealth, Actions, Scraping) with your **Enterprise Infrastructure** (Selenium Grid).
-
-The **Master Guide** is designed as a global textbook—anyone from a junior tester to a senior SDET can follow it to build this system.
-
----
-
-### 📘 Document 1: MASTER_GUIDE.md
-
-*This is the comprehensive manual. Save this in your root directory.*
-
-```markdown
 # Alnafi Selenium & Grid Framework: The Ultimate Automation Guide
 **Author:** Saleem Ali
 **Architecture:** Hybrid (Local Execution & Distributed Grid)
