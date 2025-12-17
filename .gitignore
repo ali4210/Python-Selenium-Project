@@ -1,0 +1,21 @@
+
+# ==>> Python System Files
+__pycache__/
+*.py[cod]
+*.pyc
+
+# ==>> Browser Drivers (Do not upload these, use WebDriverManager instead)
+Drivers/
+Chrome Dirver/
+*.exe
+*.log
+
+# ==>> Evidence (Screenshots shouldn't clutter the code repo)
+screenshot/
+*.png
+*.jpg
+*.jpeg
+
+# ==>> IDE Settings
+.idea/
+.vscode/
